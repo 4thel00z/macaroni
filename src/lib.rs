@@ -1,3 +1,5 @@
+// A macro to create various collections from a list of elements,
+// similar to the vec! macro but for other collections as well.
 #[macro_export]
 macro_rules! collect {
         ($($k:expr => $v:expr),* $(,)?) => {{

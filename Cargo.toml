@@ -2,6 +2,14 @@
 name = "macaroni"
 version = "0.1.0"
 edition = "2021"
+authors = ["ransomware <4thel00z@gmail.com>"]
+description = "The missing macro std library for Rust"
+homepage = "https://github.com/4theL00z/macaroni"
+repository = "https://github.com/4theL00z/macaroni"
+readme = "README.md"
+keywords = ["macros", "std", "rust", "proc_macro", "macro_rules"]
+license = "GPL-3"
+documentation = "https://docs.rs/macaroni"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
