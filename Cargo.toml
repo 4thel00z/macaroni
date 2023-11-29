@@ -8,7 +8,7 @@ homepage = "https://github.com/4theL00z/macaroni"
 repository = "https://github.com/4theL00z/macaroni"
 readme = "README.md"
 keywords = ["macros", "std", "rust", "proc_macro", "macro_rules"]
-license = "GPL-3"
+license = "GPL-3.0"
 documentation = "https://docs.rs/macaroni"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
